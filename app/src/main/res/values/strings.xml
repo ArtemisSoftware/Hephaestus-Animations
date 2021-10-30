@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HephaestusAnimations</string>
+    <string name="group_animation">Group Animation</string>
 </resources>
