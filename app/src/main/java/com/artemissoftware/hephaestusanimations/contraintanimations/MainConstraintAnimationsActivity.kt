@@ -24,5 +24,12 @@ class MainConstraintAnimationsActivity : AppCompatActivity() {
             val intent = Intent(this, ConstraintSetAnimationActivity::class.java)
             startActivity(intent)
         }
+
+        (findViewById<Button>(R.id.btn_placeholder_animation) as Button).setOnClickListener {
+
+
+            val intent = Intent(this, PlaceholderAnimationActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

@@ -3,4 +3,5 @@
     <string name="group_animation">Group Animation</string>
     <string name="constraint_set_animation">Constraint Set Animation</string>
     <string name="constraint_layout_animations">ConstraintLayout Animations</string>
+    <string name="placeholder_animation">Placeholder Animation</string>
 </resources>
