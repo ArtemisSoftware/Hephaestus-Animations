@@ -1,4 +1,4 @@
-package com.artemissoftware.hephaestusanimations
+package com.artemissoftware.hephaestusanimations.contraintanimations
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -9,6 +9,7 @@ import android.view.View
 import android.widget.Button
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.constraintlayout.widget.Group
+import com.artemissoftware.hephaestusanimations.R
 
 
 class GroupAnimationActivity : AppCompatActivity() {
